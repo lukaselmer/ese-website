@@ -6,7 +6,6 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Elmer Software Engineering GmbH" />
-    <h1>Hi</h1>
     <p>
       Elmer Software Engineering GmbH
       <br />

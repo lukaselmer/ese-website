@@ -17,7 +17,7 @@ const IndexPage = () => (
     </p>
     <p>CHE-138.020.307 MWST</p>
     <p>
-      <a href="mailto:lukas@elmer.app">lukas@elmer.app</a>
+      <a href="mailto:hi@elmer.app">hi@elmer.app</a>
     </p>
   </Layout>
 )

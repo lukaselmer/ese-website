@@ -15,7 +15,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.2",
@@ -25,13 +25,13 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
     "@babel/preset-env": "^7.6.2",
     "@babel/preset-typescript": "^7.6.0",
-    "@types/node": "^12.7.11",
+    "@types/node": "^14.0.13",
     "@types/react": "^16.9.5",
     "@types/react-dom": "^16.9.1",
-    "firebase-tools": "^7.4.0",
+    "firebase-tools": "^8.4.3",
     "gatsby-plugin-typescript": "^2.1.11",
     "prettier": "^1.18.2",
-    "typescript": "^3.6.3"
+    "typescript": "^3.9.5"
   },
   "keywords": [
     "gatsby"

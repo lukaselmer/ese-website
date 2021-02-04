@@ -9,9 +9,9 @@ const IndexPage = () => (
     <p>
       Elmer Software Engineering GmbH
       <br />
-      Kreuzwiesen 19
+      Hungerbergstrasse 26
       <br />
-      8051 Zürich
+      8046 Zürich
       <br />
       Switzerland
     </p>

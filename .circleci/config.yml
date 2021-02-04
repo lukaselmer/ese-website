@@ -31,8 +31,10 @@ jobs:
       - attach_workspace:
           at: .
       - run:
+          command: echo $SERVICE_ACCOUNT > deploy-credentials.json
+      - run:
           name: Firebase Deploy
-          command: yarn deploy
+          command: GOOGLE_APPLICATION_CREDENTIALS=deploy-credentials.json yarn deploy
 
 workflows:
   version: 2
